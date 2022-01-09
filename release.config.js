@@ -5,11 +5,7 @@ module.exports = {
         "next",
         "next-major",
         {
-            name: "beta",
-            prerelease: true,
-        },
-        {
-            name: "alpha",
+            name: "integration",
             prerelease: true,
         },
         {
