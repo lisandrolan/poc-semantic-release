@@ -1,2 +1,2 @@
 # poc-semantic-release
-this is integration 2
+this is integration 3
