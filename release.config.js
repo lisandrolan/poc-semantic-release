@@ -5,15 +5,13 @@ module.exports = {
         "next",
         "next-major",
         {
-            name: "beta",
-            prerelease: true,
-        },
-        {
-            name: "alpha",
+            name: "integration",
+            channel: "integration",
             prerelease: true,
         },
         {
             name: "staging",
+            channel: "staging",
             prerelease: true,
         },
     ],
