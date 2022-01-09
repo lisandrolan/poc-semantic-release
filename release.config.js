@@ -12,6 +12,14 @@ module.exports = {
             name: "alpha",
             prerelease: true,
         },
+        {
+            name: "integration",
+            prerelease: true,
+        },
+        {
+            name: "staging",
+            prerelease: true,
+        },
     ],
     plugins: [
         "@semantic-release/commit-analyzer",
