@@ -1,2 +1,2 @@
 # poc-semantic-release
-this is alpha
+this is alpha 1
