@@ -15,7 +15,7 @@ module.exports = {
             prerelease: true,
         },
         {
-            name: "feature-*",
+            name: "feature*",
             channel: "development",
             prerelease: true
         }
