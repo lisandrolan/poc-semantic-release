@@ -14,6 +14,11 @@ module.exports = {
             channel: "staging",
             prerelease: true,
         },
+        {
+            name: "release/*",
+            channel: "development",
+            prerelease: true
+        }
     ],
     plugins: [
         "@semantic-release/commit-analyzer",
